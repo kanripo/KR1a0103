@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀易述
-#+DATE: 2015-09-23 09:35:12
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 21:57:54.486354
+#+PROPERTY: ID KR1a0103
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1a0103_WYG_016-1a>¶
 欽定四庫全書¶
 　讀易述卷十六　　　　　明　潘士藻　撰¶
@@ -344,4 +346,3 @@
 　¶
 　¶
 　讀易述卷十六¶
-
